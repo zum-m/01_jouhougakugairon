@@ -6,6 +6,6 @@ colabからのcommit用リポジトリ
 ## quantium
 量子コンピューティング関連の資料と実行結果。
 
-[IBM quiskit lecture](https://qiskit.org/learn)
+[IBM Qiskit Lecture Textbook](https://qiskit.org/learn)
 
 
