@@ -1,6 +1,7 @@
 # 01_jouhougakugairon
-情報学概論
-colabからのcommit用リポジトリ
+
+学習ログとしてのリポジトリ
+主にcolabからのcommit用リポジトリ
 
 # branch説明
 ## quantium
